@@ -26,6 +26,7 @@ namespace Platformer.Model
         /// The spawn point in the scene.
         /// </summary>
         public Transform spawnPoint;
+        public Transform spawnPoint2;
 
         /// <summary>
         /// A global jump modifier applied to all initial jump velocities.
